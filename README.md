@@ -1,2 +1,2 @@
-# git_UI is a small project 
+# title : git_UI  
 # purpose : avoid wasting time by typing in the terminal
